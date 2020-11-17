@@ -221,93 +221,72 @@
                                                 <div class="row">
 
                                                     <div class="col-lg-12 mt--30">
-                                                        <input type="text" placeholder="First Name">
+                                                        <input type="text" placeholder="Name / I am">
                                                     </div>
             
                                                     <div class="col-lg-12 mt--30">
-                                                        <input name="con_email" type="email" placeholder="Last Name">
+                                                        <input name="con_email" type="email" placeholder="Cell / Email">
                                                     </div>
             
-                                                    <div class="col-lg-12 mt--30">
-                                                        <input type="text" placeholder="Address">
-                                                    </div>
-                                                
+                                                    
 
-                                                    <div class="col-lg-12 mt--30">
-                                                        <input name="con_name" type="number" placeholder="Cell Phone">
-                                                    </div>
+                                                    <!-- Start Accordion Area -->
+                                                    <div class="bk-accordion-area ptb--150 ptb-md--80 ptb-sm--60 bg_color--1 basic-thine-line col-lg-12">
+                                                        <div class="container">
+                                                            <div class="row">
+                                                                <!-- Start Single Accordion -->
+                                                                <div class="col-lg-12">
+                                                                    <div class="bk-accordion" id="accordionExample">
+                                                                        <div class="card">
+                                                                            <div class="card-header" id="headingOne">
+                                                                                <h5 class="mb-0">
+                                                                                    <a href="#" class="acc-btn collapsed" data-toggle="collapse" data-target="#collapseOne"
+                                                                                        aria-expanded="false" aria-controls="collapseOne">
+                                                                                        OPTIONAL
+                                                                                    </a>
+                                                                                </h5>
+                                                                            </div>
 
-                                                    <div class="col-lg-12 mt--30">
-                                                        <input name="con_name" type="email" placeholder="Email">
-                                                    </div>
+                                                                           
 
-                                                    <div class="col-lg-12 mt--30">
-                                                        <input name="con_name" type="number" placeholder="Vessel Length (in Feet)">
-                                                    </div>
+                                                                            <div id="collapseOne" class="collapse" aria-labelledby="headingOne"
+                                                                                data-parent="#accordionExample">
+                                                                                <div class="col-lg-12 mt--30">
+                                                                                    <div class="col-lg-12 mt--30">
+                                                                                        <input type="text" placeholder="Type / Length">
+                                                                                    </div>
+                                            
+                                                                                    <div class="col-lg-12 mt--30">
+                                                                                        <input name="con_email" type="email" placeholder="Brand / Year">
+                                                                                    </div>
+                                                                                    <div class="col-lg-12 mt--30">
+                                                                                        <input name="con_email" type="email" placeholder="Location / Water">
+                                                                                    </div>
+                                                                                    <br>
+                                                                                    <label for="insideOutside">Services required:</label>
+                                                                                    <select name="insideOutside" id="insideOutside">
+                                                                                        <option value="owner">Topside Detailing</option>
+                                                                                        <option value="Captain">Hull Detailing</option>
+                                                                                        <option value="Captain">Cabin Interior</option>
+                                                                                        <option value="Captain">Diving</option>
+                                                                                        <option value="Captain">Other</option>
+                                                                                    </select>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <!-- End Single Accordion -->
 
-                                                    <div class="col-lg-12 mt--30">
-                                                        <input name="con_name" type="text" placeholder="Manufacturer">
+                                                            
+                                                            </div>
+                                                        </div>
                                                     </div>
+                                                    <!-- End Accordion Area -->
 
-                                                    <div class="col-lg-12 mt--30">
-                                                        <input name="con_name" type="number" placeholder="Year">
-                                                    </div>
 
-                                                    <div class="col-lg-12 mt--30">
-                                                        <input name="con_name" type="text" placeholder="Comments">
-                                                    </div>
 
-                                                    <div class="col-lg-12 mt--30">
-                                                    <label for="position">You are a:</label>
-                                                    <select name="position" id="position">
-                                                        <option value="owner">Owner</option>
-                                                        <option value="Captain">Captain</option>
-                                                        <option value="Broker">Broker</option>
-                                                        <option value="Manufacturer">Manufacturer</option>
-                                                        <option value="Manufacturer">Dock Master</option>
-                                                        <option value="Manufacturer">Assistant</option>
-                                                    </select>
-                                                    </div>
-
-                                                    <div class="col-lg-12 mt--30">
-                                                        <label for="type">Type:</label>
-                                                        <select name="type" id="type">
-                                                            <option value="owner">Motorboat</option>
-                                                            <option value="Captain">Sailboat</option>
-                                                            <option value="Broker">Multi Hull</option>
-                                                            <option value="Manufacturer">Other</option>
-                                                        </select>
-                                                    </div>
-
-                                                    <div class="col-lg-12 mt--30">
-                                                        <label for="type">Boat location:</label>
-                                                        <select name="type" id="type">
-                                                            <option value="owner">House Slip</option>
-                                                            <option value="Captain">Marina Slip</option>
-                                                            <option value="Broker">Yard</option>
-                                                        </select>
-                                                    </div>
-
-                                                    <div class="col-lg-12 mt--30">
-                                                        <label for="insideOutside">Inside or outside of the water?:</label>
-                                                        <select name="insideOutside" id="insideOutside">
-                                                            <option value="owner">Inside</option>
-                                                            <option value="Captain">Outside</option>
-                                                        </select>
-                                                    </div>
-
-                                                    <div class="col-lg-12 mt--30">
-                                                        <label for="insideOutside">Services required:</label>
-                                                        <select name="insideOutside" id="insideOutside">
-                                                            <option value="owner">Topside Detailing</option>
-                                                            <option value="Captain">Hull Detailing</option>
-                                                            <option value="Captain">Cabin Interior</option>
-                                                            <option value="Captain">Diving</option>
-                                                            <option value="Captain">Other</option>
-                                                        </select>
-                                                    </div>
-
-                                                    <div class="form-group col-lg-12 mt--30">
+                                                    <!-- <div class="form-group col-lg-12 mt--30">
                                                         <label for="exampleFormControlSelect2">Example multiple select</label>
                                                         <select multiple class="form-control" id="exampleFormControlSelect2">
                                                           <option>Topside Detailing</option>
@@ -316,7 +295,18 @@
                                                           <option>Diving</option>
                                                           <option>Other</option>
                                                         </select>
+                                                    </div> -->
+                                                    
+                                                    <div class="col-lg-12">
+                                                        <div class="brook-section-title text-center mb--40">                                                           
+                                                            <h5 class="heading heading-h3 fw-200">MESSAGE</h5>
+                                                        </div>
                                                     </div>
+                                            
+                                                    <div class="form-group col-lg-12 mt--30">
+                                                        
+                                                        <textarea class="form-control" id="exampleFormControlTextarea2" rows="3"></textarea>
+                                                      </div>
                                                     
                                                     <div class="col-lg-12 mt--30">
                                                         <input type="submit" value="Submit message" data-toggle="modal" data-target="#exampleModal">
