@@ -61,7 +61,7 @@
     <div id="wrapper" class="wrapper">
 
          <!-- Header -->
-         <header class="br_header header-left--align header-default header-architecture header-transparent light-logo--version haeder-fixed-width haeder-fixed-150 headroom--sticky header-mega-menu clearfix">
+         <header class="br_header header-left--align header-default header-architecture header-transparent light-logo--version haeder-fixed-width haeder-fixed-150  headroom--sticky header-mega-menu clearfix" style="background-color:#000000;">
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-12">
@@ -240,9 +240,9 @@
                                 <div class="row">
                                     <div class="col-lg-12">
                                         <div class="brook-section-title text-center mb--40">
-                                            <h3 class="heading heading-h3 fw-200">"SunShine"</h3>
-                                            <br>
-                                            <h5 class="heading heading-h3 fw-200"> Your boat with Sunshine Detailing!</h5>
+                                            <!-- <h3 class="heading heading-h3 fw-200">"SunShine"</h3>
+                                            <br> -->
+                                            <h5 class="heading heading-h3 fw-200"> "SunShine" your boat with Sunshine Detailing!</h5>
                                             <p class="mt--15">Fill out the following form and will be in touch with you shortly</p>
                                         </div>
                                     </div>
@@ -254,17 +254,25 @@
                                                 <div class="row">
 
                                                     <div class="col-lg-12 mt--30">
-                                                        <input type="text" placeholder="Name / I am">
+                                                        <input type="text" placeholder="Name">
+                                                    </div>
+
+                                                    <div class="col-lg-12 mt--30">
+                                                        <input type="text" placeholder="I am">
                                                     </div>
             
                                                     <div class="col-lg-12 mt--30">
-                                                        <input name="con_email" type="email" placeholder="Cell / Email">
+                                                        <input name="con_email" type="email" placeholder="Cell">
+                                                    </div>
+
+                                                    <div class="col-lg-12 mt--30">
+                                                        <input name="con_email" type="email" placeholder="Email">
                                                     </div>
             
                                                     
 
                                                     <!-- Start Accordion Area -->
-                                                    <div class="bk-accordion-area ptb--150 ptb-md--80 ptb-sm--60 bg_color--1 basic-thine-line col-lg-12">
+                                                    <div class="bk-accordion-area ptb--150 ptb-md--80 ptb-sm--60 bg_color--1  col-lg-12">
                                                         <div class="container">
                                                             <div class="row">
                                                                 <!-- Start Single Accordion -->
@@ -286,17 +294,30 @@
                                                                                 data-parent="#accordionExample">
                                                                                 <div class="col-lg-12 mt--30">
                                                                                     <div class="col-lg-12 mt--30">
-                                                                                        <input type="text" placeholder="Type / Length">
+                                                                                        <input type="text" placeholder="Type">
+                                                                                    </div>
+
+                                                                                    <div class="col-lg-12 mt--30">
+                                                                                        <input type="text" placeholder="Length">
                                                                                     </div>
                                             
                                                                                     <div class="col-lg-12 mt--30">
-                                                                                        <input name="con_email" type="email" placeholder="Brand / Year">
+                                                                                        <input name="con_email" type="email" placeholder="Brand">
                                                                                     </div>
+
                                                                                     <div class="col-lg-12 mt--30">
-                                                                                        <input name="con_email" type="email" placeholder="Location / Water">
+                                                                                        <input name="con_email" type="email" placeholder="Year">
+                                                                                    </div>
+
+                                                                                    <div class="col-lg-12 mt--30">
+                                                                                        <input name="con_email" type="email" placeholder="Location">
+                                                                                    </div>
+
+                                                                                    <div class="col-lg-12 mt--30">
+                                                                                        <input name="con_email" type="email" placeholder="Water">
                                                                                     </div>
                                                                                     <br>
-                                                                                    <select class="mdb-select md-form" multiple searchable="Search here..">
+                                                                                    <!-- <select class="mdb-select md-form" multiple searchable="Search here..">
                                                                                         <option value="" disabled selected>Services</option>
                                                                                         <option value="1">Topside</option>
                                                                                         <option value="2">Hull</option>
@@ -304,8 +325,29 @@
                                                                                         <option value="3">Cabin</option>
                                                                                         <option value="3">Teak</option>
                                                                                         <option value="3">Other</option>
-                                                                                      </select>                                                                                     
-                                                                                      <button class="btn-save btn btn-primary btn-sm">Save</button>
+                                                                                      </select>                                                                                      -->
+                                                                                    <div class="form-check">
+                                                                                        <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
+                                                                                        <label class="form-check-label" for="defaultCheck1">
+                                                                                            Topside
+                                                                                        </label>
+                                                                                        <label class="form-check-label" for="defaultCheck2">
+                                                                                            Hull
+                                                                                          </label>
+                                                                                          <label class="form-check-label" for="defaultCheck3">
+                                                                                            Diving
+                                                                                          </label>
+                                                                                          <label class="form-check-label" for="defaultCheck4">
+                                                                                            Cabin
+                                                                                          </label>
+                                                                                          <label class="form-check-label" for="defaultCheck5">
+                                                                                            Teak
+                                                                                          </label>
+                                                                                          <label class="form-check-label" for="defaultCheck6">
+                                                                                            Other
+                                                                                          </label>
+                                                                                      </div>
+                                                                                      
                                                                                 </div>
                                                                             </div>
                                                                         </div>
