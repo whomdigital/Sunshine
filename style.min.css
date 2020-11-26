@@ -576,13 +576,16 @@ input,
 select,
 textarea {
     width: 100%;
-    font-size: 14px
-}
+    font-size: 14px;
+    padding-left: 12px
+ }
 
 input,
 select {
-    height: 40px;
-    padding: 0 15px
+  border: 1px solid #f5f6fa !important;
+  background: #f5f6fa !important;
+  height: 50px !important;
+  margin-bottom: 40px
 }
 
 @-webkit-keyframes moveVertical {
@@ -12483,6 +12486,10 @@ a.moredetails-btn.yellow-color-2:hover {
     }
 }
 
+.heading-h1{
+  font-family: GoodTimes
+}
+
 .architecture-bg-thumbnail {
     display: -webkit-box;
     display: -webkit-flex;
@@ -14317,6 +14324,11 @@ a.moredetails-btn.yellow-color-2:hover {
     background: #f5f6fa !important;
     height: 50px !important
 }
+#select1{
+  border: 1px solid #f5f6fa !important;
+  background: #f5f6fa !important;
+  height: 50px !important
+}
 
 .bg-input-one input:focus {
     border: 1px solid #f87f11 !important
@@ -14611,9 +14623,9 @@ a.moredetails-btn.yellow-color-2:hover {
     border: 1px solid #999;
     border-radius: 0;
     line-height: 23px;
-    padding: 10px 20px;
     font-size: 14px;
-    color: #151515
+    color: #151515;
+    margin-bottom: 0
 }
 
 .contact-form label {
