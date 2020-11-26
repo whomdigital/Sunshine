@@ -655,6 +655,12 @@ select {
     }
 }
 
+@media only screen and (min-width:500px) and (max-width:2000px) {
+ #brcontact{
+   display: none
+ }
+}
+
 @keyframes headerSlideDown {
     0% {
         margin-top: -100px
