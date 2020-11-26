@@ -12474,6 +12474,14 @@ a.moredetails-btn.yellow-color-2:hover {
     max-width: 890px
 }
 
+@font-face {
+	font-family: "goodtimes";
+	src: url(../fonts/goodtimes.ttf);
+	font-style: normal;
+	font-weight: normal;
+  }
+
+
 .architecture-service-container {
     position: relative;
     background: #fff;
@@ -31519,7 +31527,8 @@ header.br_header.header-default.vertical-slide-portfolio {
     box-shadow: 0 8px 20px 0 rgba(0, 0, 0, .1);
     -webkit-animation: headerSlideDown .95s ease forwards;
     animation: headerSlideDown .95s ease forwards;
-    padding-top: 0 !important
+    padding-top: 0 !important;
+    padding-bottom: 20px
 }
 
 .headroom--sticky.headroom--not-top .mainmenu-wrapper .page_nav ul.mainmenu li.lavel-1 {
