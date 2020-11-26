@@ -157,7 +157,7 @@
  font-family: 'Poppins', sans-serif;
  font-family: 'Permanent Marker', cursive;
  font-family: 'Playfair Display', serif;
- font-family: 'Montserrat', sans-serif;
+ font-family: '', sans-serif;
   font-family: 'Roboto', sans-serif;
  =================================================*/
 @media only screen and (max-width: 575px) {
@@ -536,7 +536,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: "louis_george_caferegular";
+  font-family: "GoodTimes";
   line-height: 1.3;
   color: #222222; }
 
@@ -862,7 +862,7 @@ Animation Css
  font-family: 'Permanent Marker', cursive;
  font-family: 'Playfair Display', serif;
  font-family: 'Montserrat', sans-serif;
- font-family: 'Open Sans', sans-serif;
+ font-family: 'Montserrat', sans-serif;
  font-family: 'Roboto', sans-serif;
  font-family: 'Reenie Beanie', cursive;
  font-family: 'CerebriSans';
@@ -1004,7 +1004,7 @@ Animation Css
   font-family: "Poppins", sans-serif; }
 
 .heading-font {
-  font-family: "louis_george_caferegular"; }
+  font-family: "GoodTimes"; }
 
 .playfair-font {
   font-family: "Playfair Display", serif; }
@@ -7516,7 +7516,7 @@ Padding Top Bottom
   font-family: "Poppins", sans-serif; }
 
 .heading-font {
-  font-family: "louis_george_caferegular"; }
+  font-family: "GoodTimes"; }
 
 /* Height and width */
 .fullscreen {
@@ -8373,7 +8373,7 @@ a.moredetails-btn {
   color: #222222; }
 
 .view-more-btn.headingfont a span {
-  font-family: "louis_george_caferegular"; }
+  font-family: "GoodTimes"; }
 
 .view-more-btn.font-18 a {
   font-size: 18px; }
@@ -8714,7 +8714,7 @@ a.moredetails-btn {
   line-height: 1.32;
   font-weight: 700;
   color: #222222;
-  font-family: "louis_george_caferegular"; }
+  font-family: "GoodTimes"; }
 
 .section-title.normal-text h2 {
   font-weight: 400; }
@@ -9101,7 +9101,7 @@ Creative Agency Section Title
     font-weight: 600; }
   .service.service--1 .content p {
     color: #333;
-    font-family: 'louis_george_caferegular';
+    font-family: 'GoodTimes';
     letter-spacing: 0em;
     line-height: 1.32;
     font-size: 16px; }
@@ -9202,7 +9202,7 @@ Creative Agency Section Title
     letter-spacing: 0em;
     line-height: 1.32;
     font-size: 16px;
-    font-family: "louis_george_caferegular";
+    font-family: "GoodTimes";
     color: #333333; }
 
 .service.service--3:hover .thumb a img {
@@ -9555,7 +9555,7 @@ Counterup Area
     font-size: 70px;
     font-weight: 700;
     line-height: .9;
-    font-family: "louis_george_caferegular";
+    font-family: "GoodTimes";
     -webkit-box-flex: 0;
     -webkit-flex: 0 0 33.33333%;
     -ms-flex: 0 0 33.33333%;
@@ -9578,7 +9578,7 @@ Counterup Area
       font-weight: 600; }
     .number-wrap .content p {
       margin-top: 20px;
-      font-family: "louis_george_caferegular";
+      font-family: "GoodTimes";
       line-height: 1.32;
       font-size: 16px;
       margin-bottom: 0;
@@ -9820,7 +9820,7 @@ Counterup Area
     letter-spacing: 0em;
     line-height: 1.32;
     font-size: 16px;
-    font-family: "louis_george_caferegular";
+    font-family: "GoodTimes";
     color: #333; }
   .team.team_style--1:hover .image-wrap .thumb .overlay {
     opacity: 1;
@@ -10591,7 +10591,7 @@ Blog Default Style
   font-weight: 700;
   font-size: 24px;
   color: #222222;
-  font-family: "louis_george_caferegular"; }
+  font-family: "GoodTimes"; }
 
 .address-inner .address p {
   line-height: 1.94;
@@ -10599,7 +10599,7 @@ Blog Default Style
   margin-bottom: 0;
   font-size: 16px;
   color: #333333;
-  font-family: "louis_george_caferegular"; }
+  font-family: "GoodTimes"; }
   .address-inner .address p a {
     color: #333333;
     -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
@@ -10609,7 +10609,7 @@ Blog Default Style
     padding: 2px 0;
     overflow: hidden;
     z-index: 1;
-    font-family: "louis_george_caferegular";
+    font-family: "GoodTimes";
     display: inline-block;
     line-height: 16px; }
     .address-inner .address p a::after {
@@ -10740,7 +10740,7 @@ Contact Form Style 01
     -webkit-transition: all 0.3s cubic-bezier(1, 0.03, 0, 0.99);
     -o-transition: all 0.3s cubic-bezier(1, 0.03, 0, 0.99);
     transition: all 0.3s cubic-bezier(1, 0.03, 0, 0.99);
-    font-family: "louis_george_caferegular";
+    font-family: "GoodTimes";
     font-size: 16px;
     font-weight: 700; }
   .form-style--1 .input-box textarea {
@@ -10753,7 +10753,7 @@ Contact Form Style 01
     -webkit-transition: all 0.3s cubic-bezier(1, 0.03, 0, 0.99);
     -o-transition: all 0.3s cubic-bezier(1, 0.03, 0, 0.99);
     transition: all 0.3s cubic-bezier(1, 0.03, 0, 0.99);
-    font-family: "louis_george_caferegular";
+    font-family: "GoodTimes";
     font-size: 16px;
     font-weight: 700;
     padding-left: 0; }
@@ -10793,7 +10793,7 @@ Contact Form Style 01
     color: #333333;
     font-weight: 700;
     font-size: 16px;
-    font-family: "louis_george_caferegular"; }
+    font-family: "GoodTimes"; }
     @media only screen and (max-width: 767px) {
       .form-style--1 .form-action .form-description {
         margin-right: 40px;
@@ -11854,7 +11854,7 @@ Contact Form Style 01
       left: 0;
       right: auto; }
   .social-icon.social-text.second-font li a {
-    font-family: "louis_george_caferegular"; }
+    font-family: "GoodTimes"; }
   .social-icon.tooltip-layout.text-dark li a {
     color: #333333;
     -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
@@ -14512,7 +14512,7 @@ Testimonial Area
   font-size: 30px;
   line-height: 1.5;
   font-style: normal;
-  font-family: "louis_george_caferegular";
+  font-family: "GoodTimes";
   color: #222222; }
   @media only screen and (max-width: 767px) {
     .testimonial-nav-content.testimonial-content--2 .testimonial-nav .content p {
@@ -16014,7 +16014,7 @@ Typography Area
   .heading.letter-spacing-3 {
     letter-spacing: 3px; }
   .heading.heading-font {
-    font-family: "louis_george_caferegular"; }
+    font-family: "GoodTimes"; }
   .heading.bk-hover a {
     color: #222222; }
   .heading.playfair-font {
@@ -16289,7 +16289,7 @@ p.bk_pra {
     p.bk_pra br {
       display: none; } }
   p.bk_pra.heading-font {
-    font-family: "louis_george_caferegular";
+    font-family: "GoodTimes";
     line-height: 1.32;
     font-size: 16px;
     color: #333333; }
@@ -16322,7 +16322,7 @@ p.bk_pra {
   p.bk_pra.secondary-font {
     font-family: "Montserrat", sans-serif; }
   p.bk_pra.heading-font2 {
-    font-family: "louis_george_caferegular"; }
+    font-family: "GoodTimes"; }
   p.bk_pra.font-blod {
     font-weight: 700; }
   p.bk_pra.line-height-1-63 {
@@ -16505,14 +16505,14 @@ List Area
         font-weight: 500;
         letter-spacing: 0em;
         line-height: 1.38;
-        font-family: "louis_george_caferegular"; }
+        font-family: "GoodTimes"; }
       .bk-list--2 .list-header.with-number--body h6.heading {
         font-size: 16px;
         font-weight: 500;
         letter-spacing: 0em;
         line-height: 1.38;
         color: #333333;
-        font-family: "louis_george_caferegular"; }
+        font-family: "GoodTimes"; }
 
 /* =====================
 Pricing Box 
@@ -19393,7 +19393,7 @@ Has Center
           -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
           -o-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
           transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
-          font-family: "louis_george_caferegular";
+          font-family: "GoodTimes";
           font-weight: 700;
           display: inline-block; }
           @media only screen and (min-width: 1200px) and (max-width: 1599px) {
@@ -22359,7 +22359,7 @@ Main Components
       font-size: 100px;
       line-height: 1.06;
       margin-bottom: 77px;
-      font-family: "louis_george_caferegular"; }
+      font-family: "GoodTimes"; }
       @media only screen and (max-width: 767px) {
         .gradient-wrapper .post-info .inner .main-info .main-info-inner h6 {
           font-size: 76px;
@@ -22373,7 +22373,7 @@ Main Components
       line-height: 1.13;
       margin-bottom: 140px;
       text-align: left;
-      font-family: "louis_george_caferegular"; }
+      font-family: "GoodTimes"; }
       @media only screen and (max-width: 767px) {
         .gradient-wrapper .post-info .inner .main-info .main-info-inner h2 {
           font-size: 30px;
@@ -22385,7 +22385,7 @@ Main Components
       font-size: 18px;
       font-weight: 700;
       color: #222;
-      font-family: "louis_george_caferegular"; }
+      font-family: "GoodTimes"; }
       .gradient-wrapper .post-info .inner .main-info .main-info-inner a.post-read-more .btn-icon {
         position: relative;
         content: "";
@@ -22483,7 +22483,7 @@ Main Components
     left: 40px;
     font-size: 18px;
     color: #222;
-    font-family: "louis_george_caferegular"; }
+    font-family: "GoodTimes"; }
     @media only screen and (max-width: 767px) {
       .gradient-wrapper .post-info .inner .post-categories {
         bottom: -26px; } }
@@ -22507,7 +22507,7 @@ Main Components
 
 .vertical-geadient-home {
   font-size: 1.6rem;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Montserrat", sans-serif;
   color: #ffffff;
   background-color: #ffffff;
   -webkit-font-smoothing: antialiased;
@@ -24555,7 +24555,7 @@ Header Font Family
           line-height: 1.18;
           font-size: 18px;
           color: #222222;
-          font-family: "louis_george_caferegular";
+          font-family: "GoodTimes";
           -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
           -o-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
           transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1); }
@@ -24690,7 +24690,7 @@ Button Hire
     color: #222;
     font-size: 18px;
     font-weight: 700;
-    font-family: "louis_george_caferegular"; }
+    font-family: "GoodTimes"; }
   .hire-on-top-button:hover .the-arrow {
     color: #222; }
     .hire-on-top-button:hover .the-arrow-left .shaft {
@@ -24846,7 +24846,7 @@ Button Hire
         left: -50px; } }
     .single-portfolio-slide .inner .info h3.heading {
       margin-bottom: 18px;
-      font-family: "louis_george_caferegular"; }
+      font-family: "GoodTimes"; }
       .single-portfolio-slide .inner .info h3.heading a {
         color: #ffffff; }
     .single-portfolio-slide .inner .info .category {
@@ -24854,7 +24854,7 @@ Button Hire
       .single-portfolio-slide .inner .info .category a {
         font-size: 16px;
         color: #999;
-        font-family: "louis_george_caferegular"; }
+        font-family: "GoodTimes"; }
     .single-portfolio-slide .inner .info .slide-btn a {
       -webkit-box-shadow: none;
       box-shadow: none;
@@ -25244,7 +25244,7 @@ Vertical Slider Portfolio
         z-index: 2;
         font-weight: 700;
         line-height: 1.38;
-        font-family: "louis_george_caferegular"; }
+        font-family: "GoodTimes"; }
         .fullscreen-slider-wrapper .feature-wrapper .fullscreen-inner .post-character.style-1 {
           color: #b40720; }
         .fullscreen-slider-wrapper .feature-wrapper .fullscreen-inner .post-character.style-2 {
@@ -25275,7 +25275,7 @@ Vertical Slider Portfolio
           font-size: 18px;
           font-weight: 700;
           color: #222;
-          font-family: "louis_george_caferegular";
+          font-family: "GoodTimes";
           -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
           -o-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
           transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1); }
@@ -26027,7 +26027,7 @@ Prresentation Area
         .presentation-slider-wrapper .presentation-inner .inner.about-inner .content h6 {
           text-transform: uppercase; }
         .presentation-slider-wrapper .presentation-inner .inner.about-inner .content h2 {
-          font-family: "louis_george_caferegular";
+          font-family: "GoodTimes";
           font-size: 48px;
           line-height: 1.11;
           word-wrap: break-word;
@@ -26039,7 +26039,7 @@ Prresentation Area
             .presentation-slider-wrapper .presentation-inner .inner.about-inner .content h2 {
               font-size: 35px; } }
         .presentation-slider-wrapper .presentation-inner .inner.about-inner .content p {
-          font-family: "louis_george_caferegular";
+          font-family: "GoodTimes";
           font-weight: 700; }
       .presentation-slider-wrapper .presentation-inner .inner.about-service .row {
         -webkit-box-align: center;
@@ -26154,7 +26154,7 @@ Prresentation Area
       font-weight: 500;
       letter-spacing: 0em;
       line-height: 2;
-      font-family: "louis_george_caferegular";
+      font-family: "GoodTimes";
       -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
       -o-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
       transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1); }
@@ -26171,7 +26171,7 @@ Prresentation Area
   font-size: 14px;
   font-weight: 500;
   line-height: 2;
-  font-family: "louis_george_caferegular";
+  font-family: "GoodTimes";
   color: #ffffff; }
   .footer-widget .footer-address p a {
     padding: 4px 0;
@@ -26311,7 +26311,7 @@ Prresentation Area
   font-size: 14px;
   font-weight: 500;
   line-height: 2;
-  font-family: "louis_george_caferegular";
+  font-family: "GoodTimes";
   color: #ffffff; }
   .copyright .copyright-right p a {
     color: #fff; }
@@ -44744,50 +44744,50 @@ body.template-font-2 .h3,
 body.template-font-2 .h4,
 body.template-font-2 .h5,
 body.template-font-2 .h6 {
-  font-family: "louis_george_caferegular"; }
+  font-family: "GoodTimes"; }
 
 body.template-font-2 .heading.font-reenie {
   font-family: 'Reenie Beanie', cursive; }
 
 body.template-font-2 .mini-cart .shopping-cart .shop-inner ul.product-list li .content .inner h4 {
-  font-family: "louis_george_caferegular"; }
+  font-family: "GoodTimes"; }
 
 body.template-font-2 .mega__width--fullscreen .mega__list li a span {
-  font-family: "louis_george_caferegular"; }
+  font-family: "GoodTimes"; }
 
 body.template-font-2 .mainmenu-wrapper .page_nav ul.mainmenu li.lavel-1 > a span {
-  font-family: "louis_george_caferegular"; }
+  font-family: "GoodTimes"; }
 
 body.template-font-2 .footer-widget .footer-menu ul.ft-menu-list li a {
-  font-family: "louis_george_caferegular"; }
+  font-family: "GoodTimes"; }
 
 body.template-font-2 .copyright ul.bk-copyright-menu li a {
-  font-family: "louis_george_caferegular"; }
+  font-family: "GoodTimes"; }
 
 body.template-font-2 .copyright .copyright-right p {
-  font-family: "louis_george_caferegular"; }
+  font-family: "GoodTimes"; }
 
 body.template-font-2 .footer-widget .footer-address p {
-  font-family: "louis_george_caferegular"; }
+  font-family: "GoodTimes"; }
 
 body.template-font-2 .form-style--1 .input-box input,
 body.template-font-2 .form-style--1 .input-box textarea {
-  font-family: "louis_george_caferegular"; }
+  font-family: "GoodTimes"; }
 
 body.template-font-2 .testimonial_style--1 .content p {
-  font-family: "louis_george_caferegular"; }
+  font-family: "GoodTimes"; }
 
 body.template-font-2 .testimonial_style--1 .content .testimonial-info .clint-info span {
-  font-family: "louis_george_caferegular"; }
+  font-family: "GoodTimes"; }
 
 body.template-font-2 .service.service--1 .content p {
-  font-family: "louis_george_caferegular"; }
+  font-family: "GoodTimes"; }
 
 body.template-font-2 .service.service--2 .content h4 {
-  font-family: "louis_george_caferegular"; }
+  font-family: "GoodTimes"; }
 
 body.template-font-2 .service.service--2 .content p {
-  font-family: "louis_george_caferegular"; }
+  font-family: "GoodTimes"; }
 
 body.template-font-3 .heading,
 body.template-font-3 h1,

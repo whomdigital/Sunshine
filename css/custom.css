@@ -14,3 +14,8 @@
 	src: url(../fonts/goodtimes.ttf);
   }
 
+	@media only screen and (max-width:767px) {
+    #slide-16-layer-1{
+			font-size: 40px;
+    }
+}
