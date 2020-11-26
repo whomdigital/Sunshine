@@ -10,12 +10,10 @@
 
 
 @font-face {
-	font-family: goodtimes;
+	font-family: "goodtimes";
 	src: url(../fonts/goodtimes.ttf);
+	font-style: normal;
+	font-weight: normal;
   }
 
-	@media only screen and (max-width:767px) {
-    #slide-16-layer-1{
-			font-size: 40px;
-    }
 }
