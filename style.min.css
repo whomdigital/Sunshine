@@ -7945,6 +7945,9 @@ body.template-color-41 .text-color {
     .pl_sm--100 {
         padding-left: 100px
     }
+    .pl_sm--120{
+        padding-left: 110px
+    }
     .pr_sm--5 {
         padding-right: 5px
     }
@@ -16117,7 +16120,8 @@ a.moredetails-btn.yellow-color-2:hover {
 .social-icon.tooltip-layout li a.hint--white[aria-label]::after {
     background: #fff;
     color: #111;
-    text-shadow: none
+    text-shadow: none;
+    display: none
 }
 
 .social-icon.tooltip-layout li a.hint--bottom::before {
@@ -30944,7 +30948,7 @@ a {
     font-weight: 600;
     line-height: 1.18;
     font-size: 16px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: goodtimes;
     color: #0038e3;
     padding-top: 41px;
     padding-bottom: 41px;
@@ -31250,7 +31254,7 @@ header.br_header.header-default.vertical-slide-portfolio {
 
 @media only screen and (max-width:767px) {
     .header-default .header__wrapper .header-left .logo a img {
-        width: 170px   }
+        width: 200px   }
 }
 
 .header-default .header__wrapper .header-flex-right {
@@ -33090,7 +33094,7 @@ header.br_header.header-default.header-fixed {
 }
 
 .popup-mobile-manu .inner .mobileheader .logo a img {
-    width: 150px;
+    width: 200px;
     height: auto;
     max-width: 100%
 }
@@ -33166,7 +33170,7 @@ header.br_header.header-default.header-fixed {
 }
 
 .object-custom-menu>li a span {
-    font-size: 17px;
+    font-size: 25px;
     color: #999
 }
 
