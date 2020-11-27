@@ -23291,6 +23291,24 @@ p.bk_pra.line-height-2-22 {
 }
 
 .bk-accordion .card-header h5 a.acc-btn {
+    color: white;
+   
+    font-size: 14px;
+    line-height: 1.2;
+    padding: 0;
+    font-weight: 400;
+    border: 0 none;
+    font-family: 'Montserrat', sans-serif;
+    -webkit-appearance: none;
+    display: block;
+    background: #f87f11;
+    padding: 20px 26px;
+    margin: -1px -1px 0;
+    border: 0 none;
+    position: relative;
+    border-radius: 5px 5px 0 0
+}
+.bk-accordion .card-header h5 a.acc-btn .optional{
     color: gray;
    
     font-size: 14px;
@@ -23301,7 +23319,7 @@ p.bk_pra.line-height-2-22 {
     font-family: 'Montserrat', sans-serif;
     -webkit-appearance: none;
     display: block;
-    background: #f7f7f7;
+    background: blue;
     padding: 20px 26px;
     margin: -1px -1px 0;
     border: 0 none;
@@ -23324,7 +23342,7 @@ p.bk_pra.line-height-2-22 {
 
 .bk-accordion .card-header h5 a.acc-btn[aria-expanded=true] {
     background: #0038e3;
-    color: #fff
+    color: gray
 }
 
 .bk-accordion .card-header h5 a.acc-btn[aria-expanded=true]::before {
@@ -49892,7 +49910,7 @@ body.template-color-23 .basic-modern-dots .dot {
 }
 
 body.template-color-23 .bk-accordion .card-header h5 a.acc-btn[aria-expanded=true] {
-    background: #f87f11
+    background: #f7f7f7
 }
 
 body.template-color-23 a.brook-btn.bk-btn-theme-border,
