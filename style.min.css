@@ -21885,7 +21885,7 @@ h1.heading-h1.font-90 {
 }
 
 h1.heading-h1.font-60 {
-    font-size: 60px
+    font-size: 55px
 }
 
 @media only screen and (min-width:992px) and (max-width:1199px) {
@@ -21902,13 +21902,13 @@ h1.heading-h1.font-60 {
 
 @media only screen and (max-width:767px) {
     h1.heading-h1.font-60 {
-        font-size: 36px
+        font-size: 40px
     }
 }
 
 @media only screen and (max-width:479px) {
     h1.heading-h1.font-60 {
-        font-size: 30px
+        font-size: 40px
     }
 }
 
