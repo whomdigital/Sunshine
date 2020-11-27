@@ -1051,12 +1051,12 @@
     /*============================== 
         38. Scroll Up Activation
     ================================*/
-    $.scrollUp({
-        scrollText: '<i class="fa fa-angle-up"></i>',
-        easingType: 'linear',
-        scrollSpeed: 900,
-        animation: 'slide'
-    });
+    // $.scrollUp({
+    //     scrollText: '<a href="tel:786-453-0000"><i class="fa fa fa-phone"></i></a>',
+    //     easingType: 'linear',
+    //     scrollSpeed: 900,
+    //     animation: 'slide'
+    // });
 
     /*================================= 
         39. Scroll Up COlor Change
