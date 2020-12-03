@@ -19658,7 +19658,7 @@ a:hover.hint--bottom::after {
 }
 
 .testimonial-nav-content .testimonial-nav .content p {
-    font-size: 30px;
+    font-size: 20px;
     line-height: 1.6;
     font-style: italic;
     font-family: "Playfair Display", serif;
@@ -19668,7 +19668,7 @@ a:hover.hint--bottom::after {
 
 @media only screen and (max-width:767px) {
     .testimonial-nav-content .testimonial-nav .content p {
-        font-size: 26px;
+        font-size: 16px;
         line-height: 1.5
     }
 }
