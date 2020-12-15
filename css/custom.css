@@ -16,5 +16,32 @@
 	font-weight: normal;
   }
 
+#aboutbanner{
+	background-image: url(/imgss/01.Fotos/About\ Us/Edited/aboutus_desktop-edit-min.jpg);
+}
 
+@media only screen and (max-width:400px){
+	#aboutbanner{
+		background-image: url(/imgss/01.Fotos/About\ Us/Edited/about-mobile.jpg);
+	}
+}
 
+#servicesbanner{
+	background-image: url(/imgss/01.Fotos/Services/Banner\ Services/exports/services_desktop-min.jpg);
+}
+
+@media only screen and (max-width:400px){
+	#servicesbanner{
+		background-image: url(/imgss/01.Fotos/Services/Banner\ Services/exports/services-mobile.jpg);
+	}
+}
+
+#gallerybanner{
+	background-image: url(/imgss/01.Fotos/Gallery/Banner/editadas/servicesbanner-desktop-edited-min.jpg);
+}
+
+@media only screen and (max-width:400px){
+	#gallerybanner{
+		background-image: url(/imgss/01.Fotos/Gallery/Banner/editadas/gallery-mobile.jpg);
+	}
+}
