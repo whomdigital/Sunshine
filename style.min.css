@@ -14724,23 +14724,21 @@ a.moredetails-btn.yellow-color-2:hover {
 
 .contact-form.contact-form--3 {
     padding: 53px 30px;
-    width: 380px;
+    width: 50%;
     max-width: 100%
 }
 
 .contact-form.contact-form--3 .input-box {
     position: relative;
-    margin-right: 57px
+    
 }
 
-.contact-form.contact-form--3 .input-box input {
-    padding-right: 57px
-}
+
 
 .contact-form.contact-form--3 .input-box button {
     position: absolute;
     right: 18px;
-    top: 50%;
+    top: 30%;
     -webkit-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);

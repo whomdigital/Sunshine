@@ -30,9 +30,16 @@
 	background-image: url(/imgss/01.Fotos/Services/Banner\ Services/exports/services_desktop-min.jpg);
 }
 
+	#subscribe{
+		width: 50%;
+	}
+
 @media only screen and (max-width:400px){
 	#servicesbanner{
 		background-image: url(/imgss/01.Fotos/Services/Banner\ Services/exports/services-mobile.jpg);
+	}
+	#subscribe{
+		width: 100%;
 	}
 }
 
