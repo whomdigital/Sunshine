@@ -26,6 +26,12 @@
 	}
 }
 
+@media only screen and (min-width:405px) and (max-width:785px){
+	#aboutbanner{
+		background-image: url(/imgss/01.Fotos/About\ Us/Edited/aboutus_tablet.jpg);
+	}
+}
+
 #servicesbanner{
 	background-image: url(/imgss/01.Fotos/Services/Banner\ Services/exports/services_desktop-min.jpg);
 }
@@ -43,6 +49,12 @@
 	}
 }
 
+@media only screen and (min-width:405px) and (max-width:785px){
+	#servicesbanner{
+		background-image: url(/imgss/01.Fotos/Services/Banner\ Services/exports/services_tablet.jpg);
+	}
+}
+
 #gallerybanner{
 	background-image: url(/imgss/01.Fotos/Gallery/Banner/editadas/servicesbanner-desktop-edited-min.jpg);
 }
@@ -50,5 +62,11 @@
 @media only screen and (max-width:400px){
 	#gallerybanner{
 		background-image: url(/imgss/01.Fotos/Gallery/Banner/editadas/gallery-mobile.jpg);
+	}
+}
+
+@media only screen and (min-width:405px) and (max-width:785px){
+	#gallerybanner{
+		background-image: url(/imgss/01.Fotos/Gallery/Banner/editadas/servicesbanner_tablet\ \(1\).jpg);
 	}
 }
