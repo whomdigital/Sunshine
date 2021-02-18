@@ -14736,7 +14736,6 @@ a.moredetails-btn.yellow-color-2:hover {
 
 
 .contact-form.contact-form--3 .input-box button {
-    position: absolute;
     right: 18px;
     top: 30%;
     -webkit-transform: translateY(-50%);
@@ -14760,7 +14759,7 @@ a.moredetails-btn.yellow-color-2:hover {
 }
 
 .contact-form.contact-form--4 .input-box button {
-    position: absolute;
+
     right: 0;
     top: 50%;
     -webkit-transform: translateY(-50%);
@@ -18522,7 +18521,7 @@ a:hover.hint--bottom::after {
     border: 0 !important;
     border-radius: 0;
     background: 0 0;
-    position: absolute;
+
     top: 0;
     right: 0;
     padding: 0 25px;
@@ -21052,7 +21051,7 @@ audio {
 }
 
 .brook-search-popup .inner .search-content form button.search-submit {
-    position: absolute;
+    
     top: 0;
     right: 0;
     background: 0 0;
@@ -25465,7 +25464,7 @@ body.loaded .page-loading {
 }
 
 .messonry-button button span.filter-counter {
-    position: absolute;
+    
     top: 0;
     left: 50%;
     visibility: hidden;
@@ -25490,7 +25489,7 @@ body.loaded .page-loading {
 }
 
 .messonry-button button span.filter-counter::before {
-    position: absolute;
+
     right: 0;
     bottom: -4px;
     left: 0;
@@ -25568,7 +25567,7 @@ body.loaded .page-loading {
 }
 
 .messonry-button--2 button span.filter-counter {
-    position: absolute;
+    
     top: -7px;
     right: 10px;
     font-size: 12px;
@@ -28095,7 +28094,7 @@ body.loaded .page-loading {
 }
 
 .bl-sidebar.search .search-box button {
-    position: absolute;
+    
     top: 0;
     right: 0;
     padding: 0;
@@ -28118,7 +28117,7 @@ body.loaded .page-loading {
 }
 
 .bl-sidebar.search .search-box button span {
-    position: absolute;
+    
     top: 50%;
     left: 50%;
     -webkit-transform: translate(-50%, -50%);
